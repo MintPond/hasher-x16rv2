@@ -3,7 +3,8 @@ hasher-x16rv2
 
 This repo is adapted for use with MintPond from the original repo which is located at https://github.com/traysi/x16rv2_hash/
 
-This module has been developed and tested on [Node v10.16.3](https://nodejs.org/) and [Ubuntu 16.04](http://releases.ubuntu.com/16.04/)
+This module has been developed and tested on [Node v10.16.3](https://nodejs.org/) and 
+[Ubuntu 16.04](http://releases.ubuntu.com/16.04/) for the [Ravencoin mining pool](https://mintpond.com/#!/ravencoin) at [MintPond](https://mintpond.com).
 
 ## Install ##
 __Install as Dependency in NodeJS Project__
